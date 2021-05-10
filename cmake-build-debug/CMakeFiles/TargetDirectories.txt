@@ -1,0 +1,3 @@
+/home/mati/CLionProjects/grafy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mati/CLionProjects/grafy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mati/CLionProjects/grafy/cmake-build-debug/CMakeFiles/grafy.dir

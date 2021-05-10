@@ -1,0 +1,10 @@
+Wierzcholek 0 koszt: 5 sciezka: 5 0 
+Wierzcholek 1 koszt: 3 sciezka: 5 1 
+Wierzcholek 2 koszt: 4 sciezka: 5 1 2 
+Wierzcholek 3 koszt: 10 sciezka: 5 0 3 
+Wierzcholek 4 koszt: 7 sciezka: 5 6 4 
+Wierzcholek 5 koszt: 0 sciezka: 5 
+Wierzcholek 6 koszt: 1 sciezka: 5 6 
+Wierzcholek 7 koszt: 7 sciezka: 5 6 7 
+Wierzcholek 8 koszt: 1 sciezka: 5 8 
+Wierzcholek 9 koszt: 2 sciezka: 5 8 9 

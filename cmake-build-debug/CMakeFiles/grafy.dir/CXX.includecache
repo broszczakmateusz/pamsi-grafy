@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mati/CLionProjects/grafy/Graph.cpp
+Graph.h
+/home/mati/CLionProjects/grafy/Graph.h
+
+/home/mati/CLionProjects/grafy/Graph.h
+iostream
+-
+fstream
+-
+cstdlib
+-
+limits
+-
+list
+-
+chrono
+-
+
+/home/mati/CLionProjects/grafy/main.cpp
+iostream
+-
+Graph.cpp
+/home/mati/CLionProjects/grafy/Graph.cpp
+time.h
+-
+
